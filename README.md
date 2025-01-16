@@ -46,12 +46,15 @@ This structure promotes a clear separation of concerns and facilitates easier ma
 
 This project leverages the following technologies:
 
-- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
-- **Dart**: The programming language used to write Flutter applications.
-- **Flutter Bloc**: A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern.
-- **Clean Architecture**: An architectural pattern that promotes separation of concerns and maintainability.
-- **API with Dio**: A powerful and easy-to-use HTTP client for Dart, used to fetch data from APIs.
-- **Caching**: Efficient data caching techniques to improve performance and reduce unnecessary API calls.
-- **Material 3**: The latest iteration of Material Design, providing modern UI components and design elements.
+- **MongoDB**: A NoSQL database used for storing data in a flexible, JSON-like format.
+- **Express.js**: A minimal and flexible Node.js web application framework for building robust backend APIs.
+- **React.js**: A JavaScript library for building dynamic and interactive user interfaces.
+- **Node.js**: A JavaScript runtime environment for building scalable and high-performance server-side applications.
+- **JWT (JSON Web Tokens)**: A compact, URL-safe token format used for securely transmitting information and managing user authentication.
+- **Axios**: A popular HTTP client used to make API requests in a promise-based manner.
+- **Redux**: A state management library for managing the application state in a predictable way (alternatively, can be used with React context or other state management libraries).
+- **Bcrypt.js**: A library for hashing passwords securely before storing them in the database.
+- **JWT Authentication**: A secure method for handling user authentication and authorization in a stateless manner.
+
 
 These technologies work together to create a robust and scalable application.
