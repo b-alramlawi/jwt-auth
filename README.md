@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+<h1 align="center">Attack on Titan Characters App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![cover](https://github.com/user-attachments/assets/7977492c-03ec-4b95-92ba-bdf4d42420f2)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+A simple Flutter app to fetch and display information about characters from Attack on Titan. The app uses Flutter's clean UI framework to list characters and provide their details in an engaging and minimal interface.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## App Images 
+Login | Register | Forgot Password
+--- | --- | --- |
+![1](https://github.com/user-attachments/assets/01dcbe22-d606-4527-87c9-ba859c2ea82e)
+ | ![2](https://github.com/user-attachments/assets/f7a93a99-faeb-4bff-ae3a-3edd28bda181)
+ | ![3](https://github.com/user-attachments/assets/82e00598-5b8c-4eac-b74f-517d461a11ee)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Details | Search
+--- | --- |
+ ![aot4](https://github.com/user-attachments/assets/6a154373-a074-41be-92a3-72e6bc7c1138) | ![aot5](https://github.com/user-attachments/assets/f43b1ef3-bdef-42b4-b805-a64cf2c2f574)
+<br />
 
-### `npm run build`
+## Project Structure 📁
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This Flutter project utilizes a clean architecture approach to enhance maintainability and scalability. The project structure is organized as follows:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- `lib/core/`: Contains core utilities and functionalities used throughout the application.
+- `lib/features/`: Organized by feature modules, each containing its own presentation, domain, and data layers.
+- `lib/main.dart`: The entry point of the application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This structure promotes a clear separation of concerns and facilitates easier management and extension of the codebase.
 
-### `npm run eject`
+![CleanArchitecture](https://github.com/user-attachments/assets/e0695060-f965-45c4-ae2b-d3f30cce9df8)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies 🛠️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This project leverages the following technologies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to write Flutter applications.
+- **Flutter Bloc**: A predictable state management library that helps implement the BLoC (Business Logic Component) design pattern.
+- **Clean Architecture**: An architectural pattern that promotes separation of concerns and maintainability.
+- **API with Dio**: A powerful and easy-to-use HTTP client for Dart, used to fetch data from APIs.
+- **Caching**: Efficient data caching techniques to improve performance and reduce unnecessary API calls.
+- **Material 3**: The latest iteration of Material Design, providing modern UI components and design elements.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+These technologies work together to create a robust and scalable application.
