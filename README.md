@@ -8,17 +8,28 @@
 
 A simple Flutter app to fetch and display information about characters from Attack on Titan. The app uses Flutter's clean UI framework to list characters and provide their details in an engaging and minimal interface.
 
-## App Images 
-Login | Register | Forgot Password
---- | --- | --- |
-![1](https://github.com/user-attachments/assets/01dcbe22-d606-4527-87c9-ba859c2ea82e)
- | ![2](https://github.com/user-attachments/assets/f7a93a99-faeb-4bff-ae3a-3edd28bda181)
- | ![3](https://github.com/user-attachments/assets/82e00598-5b8c-4eac-b74f-517d461a11ee)
+# App Screenshots for Web Application
+
+## Login Screen
+![Login Screen](https://github.com/user-attachments/assets/01dcbe22-d606-4527-87c9-ba859c2ea82e)
+
+## Register Screen
+![Register Screen](https://github.com/user-attachments/assets/f7a93a99-faeb-4bff-ae3a-3edd28bda181)
+
+## Forgot Password Screen
+![Forgot Password Screen](https://github.com/user-attachments/assets/82e00598-5b8c-4eac-b74f-517d461a11ee)
+
+## Home Screen
+![Home Screen](https://github.com/user-attachments/assets/95db742c-5917-488f-8987-a2035cead46b)
+
+## Profile Screen
+![Profile Screen](https://github.com/user-attachments/assets/5ea1656f-041c-4dab-9670-2c3d738ae1ef)
+
+## Edit Profile Password Screen
+![Edit Profile Password Screen](https://github.com/user-attachments/assets/7b79473c-a2f5-469e-bf2c-520eac90c313)
 
 
-| Details | Search
---- | --- |
- ![aot4](https://github.com/user-attachments/assets/6a154373-a074-41be-92a3-72e6bc7c1138) | ![aot5](https://github.com/user-attachments/assets/f43b1ef3-bdef-42b4-b805-a64cf2c2f574)
+
 <br />
 
 ## Project Structure 📁
