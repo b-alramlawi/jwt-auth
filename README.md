@@ -1,4 +1,4 @@
-<h1 align="center">Attack on Titan Characters App</h1>
+<h1 align="center">A MERN Stack Platform with JWT Authentication</h1>
 
 ![cover](https://github.com/user-attachments/assets/7977492c-03ec-4b95-92ba-bdf4d42420f2)
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-A simple Flutter app to fetch and display information about characters from Attack on Titan. The app uses Flutter's clean UI framework to list characters and provide their details in an engaging and minimal interface.
+This is a MERN Stack web application built with React.js for the frontend, Node.js and Express.js for the backend, and MongoDB for the database. The application implements secure user authentication and authorization using JSON Web Tokens (JWT). It features a user-friendly interface for login, registration, and password recovery, along with profile management capabilities such as viewing and editing profile details. The app is designed to provide a seamless and secure user experience with scalable and efficient backend architecture.
 
 # App Screenshots for Web Application
 
