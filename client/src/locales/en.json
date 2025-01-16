@@ -1,0 +1,76 @@
+{
+  "welcomeMessage": "Welcome",
+  "morningGreeting": "🌅 Good Morning",
+  "afternoonGreeting": "☀️ Good Afternoon",
+  "eveningGreeting": "🌙 Good Evening",
+
+  "authentication": "JWT Authentication",
+  "home": "Home",
+  "profile": "Profile",
+  "logout": "Logout",
+  "logoutConfirmation": "Are you sure you want to logout?",
+  "buttonConfirm": "Logout",
+  "buttonClose": "Cancel",
+  "loading": "Loading...",
+
+  "verified": "Verified",
+  "notVerified": "Not Verified",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "save": "Save",
+  "edit": "Edit",
+  "currentPassword": "Current Password",
+  "newPassword": "New Password",
+  "changePassword": "Change Password",
+  "backToUserData": "Back to User Data",
+
+
+  "registrationSuccess": "Registration successful!",
+  "registrationFailed": "Registration failed. Please try again.",
+  "register": "Register",
+  "registering": "Registering...",
+  "haveAccount": "Already have an account? ",
+  "login": "Login",
+
+  "loginTitle": "JWT Login",
+  "loginSuccess": "Login successful!",
+  "loginFailed": "Login failed. Please try again.",
+  "emailLabel": "Email",
+  "passwordLabel": "Password",
+  "forgotPassword": "Forgot Password?",
+  "loginButton": "Login",
+  "loggingIn": "Logging in...",
+  "noAccount": "Don't have an account?",
+
+  "passwordResetSuccess": "Password reset email sent successfully.",
+  "passwordResetFailed": "Error sending password reset email. Please try again.",
+  "internalServerError": "Internal server error. Please try again later.",
+  "sendResetEmail": "Send Reset Email",
+
+  "resetPasswordTitle": "Reset Password",
+  "newPasswordLabel": "New Password",
+  "resetPasswordButton": "Reset Password",
+
+  "usernameIsRequired": "Username is required",
+  "usernameMinLengthError": "Username must have at least 2 characters",
+  "emailIsRequired": "Email is required",
+  "invalidEmailError": "Enter a valid email address",
+  "passwordIsRequired": "Password is required",
+  "passwordMinLengthError": "Password must be at least 8 characters long",
+  "newPasswordRequired": "New Password is required",
+
+  "emailVerified": "Email Verified",
+  "emailVerifiedSuccess": "Email verified successfully.",
+  "goToLogin": "Go to Login",
+  "verificationFailed": "Verification Failed",
+  "verificationFailedMessage": "Oops, the verification process failed.",
+  "notFound": "404 Not Found",
+  "notFoundMessage": "Oops, the page you are looking for does not exist.",
+
+
+  "invalidCredentials": "Invalid email or password.",
+  "updateSuccess": "Profile successfully updated!",
+  "updateFailure": "Failed to update profile. Please try again."
+
+}

@@ -1,0 +1,11 @@
+# Ignore node_modules folders in both client and server
+server/node_modules/
+client/node_modules/
+
+# Ignore package-lock.json if you don't want it in the repo
+server/package-lock.json
+client/package-lock.json
+
+# Ignore .env files in server and client
+server/.env
+client/.env

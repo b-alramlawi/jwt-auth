@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* English Font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Arabic Font */
+body.arabic-language {
+    font-family: 'Cairo', sans-serif;
+}
+

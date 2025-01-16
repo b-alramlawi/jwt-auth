@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{pageTitle}}</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .header img {
+            width: 50px;
+            height: auto;
+            vertical-align: middle;
+        }
+
+        .header h1 {
+            display: inline-block;
+            margin: 0;
+            vertical-align: middle;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333333;
+        }
+
+        p {
+            color: #555555;
+        }
+
+        a {
+            color: #fb005b;
+            text-decoration: none;
+        }
+
+        .button {
+            display: inline-block;
+            font-size: 14px;
+            font-weight: bold;
+            color: #ffffff;
+            background-color: #fb005b;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+<div class="header">
+    <img src="https://miro.medium.com/v2/resize:fit:400/0*eeeO936i7XECDRzV.png" alt="Logo">
+    <h1>Jwt Authentication</h1>
+</div>
+<div class="container">
+    <h2>{{emailTitle}}</h2>
+    <p>{{emailMessage}}</p>
+    <p><a class="button" href="{{verificationLink}}" style="color: #ffffff;">{{buttonText}}</a></p>
+</div>
+</body>
+
+</html>
