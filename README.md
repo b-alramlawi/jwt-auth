@@ -31,12 +31,6 @@ This is a MERN Stack web application built with React.js for the frontend, Node.
 
 ## Project Structure 📁
 
-This Flutter project utilizes a clean architecture approach to enhance maintainability and scalability. The project structure is organized as follows:
-
-- `lib/core/`: Contains core utilities and functionalities used throughout the application.
-- `lib/features/`: Organized by feature modules, each containing its own presentation, domain, and data layers.
-- `lib/main.dart`: The entry point of the application.
-
 This structure promotes a clear separation of concerns and facilitates easier management and extension of the codebase.
 
 ![CleanArchitecture](https://github.com/user-attachments/assets/e0695060-f965-45c4-ae2b-d3f30cce9df8)
