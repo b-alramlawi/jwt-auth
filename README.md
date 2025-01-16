@@ -25,9 +25,6 @@ A simple Flutter app to fetch and display information about characters from Atta
 ## Profile Screen
 ![Profile Screen](https://github.com/user-attachments/assets/5ea1656f-041c-4dab-9670-2c3d738ae1ef)
 
-## Edit Profile Password Screen
-![Edit Profile Password Screen](https://github.com/user-attachments/assets/7b79473c-a2f5-469e-bf2c-520eac90c313)
-
 
 
 <br />
