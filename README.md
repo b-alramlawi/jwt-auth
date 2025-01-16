@@ -1,6 +1,7 @@
 <h1 align="center">A MERN Stack Platform with JWT Authentication</h1>
 
-![cover](https://github.com/user-attachments/assets/7977492c-03ec-4b95-92ba-bdf4d42420f2)
+![cover](https://github.com/user-attachments/assets/f09739ff-d121-4ff5-9c3e-d63a80d8d5a6)
+
 
 
 
