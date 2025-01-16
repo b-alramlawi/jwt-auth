@@ -11,19 +11,19 @@ This is a MERN Stack web application built with React.js for the frontend, Node.
 # App Screenshots for Web Application
 
 ## Login Screen
-![Login Screen](https://github.com/user-attachments/assets/01dcbe22-d606-4527-87c9-ba859c2ea82e)
+![Login Screen](./screenshots/login.png)
 
 ## Register Screen
-![Register Screen](https://github.com/user-attachments/assets/f7a93a99-faeb-4bff-ae3a-3edd28bda181)
+![Register Screen](./screenshots/register.png)
 
 ## Forgot Password Screen
-![Forgot Password Screen](https://github.com/user-attachments/assets/82e00598-5b8c-4eac-b74f-517d461a11ee)
+![Forgot Password Screen](./screenshots/forgot-password.png)
 
 ## Home Screen
-![Home Screen](https://github.com/user-attachments/assets/95db742c-5917-488f-8987-a2035cead46b)
+![Home Screen](./screenshots/home.png)
 
 ## Profile Screen
-![Profile Screen](https://github.com/user-attachments/assets/5ea1656f-041c-4dab-9670-2c3d738ae1ef)
+![Profile Screen](./screenshots/profile.png)
 
 
 
